@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/CyberYakku/cy_update_checker/master/update_con
 {
   "rows": [
     {
-      "Version_code"         : 1.2,  // Version name of the new update
+      "Version_code"         : 1.2,  // Change Version name of the new update
       "Update_Title"         : " New Update Available ",
       "Update_Message"       : "The latest update to this app has just been released",
       "Update_Button_text"   : "update",
