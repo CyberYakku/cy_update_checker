@@ -1,7 +1,8 @@
 # cy_update_checker
 
 
-
+> 1.Add a gradle allprojects
+```sh
 allprojects {
 		repositories {
 			...
@@ -10,14 +11,21 @@ allprojects {
 	}
 
 
+```
+> 1.Add a gradle dependency.
 
 	dependencies {
 
-	         implementation 'com.github.CyberYakku:cy_update_checker:CyberYakku'
-    		 implementation "com.airbnb.android:lottie:5.0.1"
-   		 implementation 'com.intuit.sdp:sdp-android:1.0.6'
+		implementation 'com.github.CyberYakku:cy_update_checker:CyberYakku'
+    		implementation "com.airbnb.android:lottie:5.0.1"
+   		implementation 'com.intuit.sdp:sdp-android:1.0.6'
 
 	}
+
+
+
+
+# Command
 
 
 
